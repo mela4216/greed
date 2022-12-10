@@ -1,4 +1,5 @@
 # greed
+This repo contains the complete source code for the CSE 210 Prove:Developer assignment for Unit 04.
 
 # This is a game where the player will be confronted with falling rocks (O) and falling gems (*). When you collect a gem, you get 1 point. When you collect a rock, you lose 1 point.
 
